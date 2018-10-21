@@ -1,5 +1,5 @@
 """
-The very first logger
+The very first logger in the book
 """
 
 
