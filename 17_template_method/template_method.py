@@ -1,5 +1,6 @@
 """
 template_method.py
+this is a test of the git plug-in fugitive.vim too
 """
 
 
