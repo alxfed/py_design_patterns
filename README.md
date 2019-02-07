@@ -1,2 +1,1 @@
-# py_design_patterns
-Python Design Patterns
+# python-design-patterns
