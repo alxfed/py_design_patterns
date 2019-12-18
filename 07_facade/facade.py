@@ -8,9 +8,7 @@ class Invoice:
 
 
 class Customer:
-    Altered customer class to try to fetch a customer on init or creates a
-new one
-
+    # Altered customer class to try to fetch a customer on init or creates a new one
     def __init__(self, customer_id): pass
 
 
